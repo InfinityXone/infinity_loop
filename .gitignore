@@ -1,0 +1,26 @@
+# Logs
+/logs/
+*.log
+
+# Environment + Secrets
+.env
+*.env
+secrets*.txt
+
+# Archives + Backups
+*.zip
+*.tar
+*.gz
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+
+# Node junk
+node_modules/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
