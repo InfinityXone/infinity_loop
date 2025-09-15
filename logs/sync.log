@@ -1,0 +1,37 @@
+/bin/sh: 1: root: not found
+/bin/sh: 1: /opt/infinity_loop/scripts/sync_trigger_engine.sh: not found
+/bin/sh: 1: root: not found
+/bin/sh: 1: /opt/infinity_loop/scripts/sync_trigger_engine.sh: not found
+/bin/sh: 1: /opt/infinity_loop/scripts/sync_trigger_engine.sh: not found
+/bin/sh: 1: root: not found
+/bin/sh: 1: /opt/infinity_loop/scripts/sync_trigger_engine.sh: not found
+/bin/sh: 1: root: not found
+/bin/sh: 1: /opt/infinity_loop/scripts/sync_trigger_engine.sh: not found
+/bin/sh: 1: root: not found
+🌀 Mon Sep 15 12:01:02 AM EDT 2025: Sync Trigger Start
+/bin/sh: 1: root: not found
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+fatal: ambiguous argument 'origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+📥 Pulling from GitHub...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+sending incremental file list
+./
+diagnostic_snapshot.log
+to_sync/
+to_sync/Infinity_X_One/
+
+sent 562 bytes  received 50 bytes  1,224.00 bytes/sec
+total size is 290  speedup is 0.47
