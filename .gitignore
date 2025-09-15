@@ -2,12 +2,12 @@
 /logs/
 *.log
 
-# Environment + Secrets
+# Env + secrets
 .env
 *.env
 secrets*.txt
 
-# Archives + Backups
+# Archives
 *.zip
 *.tar
 *.gz
